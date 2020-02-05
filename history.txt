@@ -1,0 +1,439 @@
+    1  cd /e/Roman/rss/tasks/
+    2  git clone https://github.com/rbarakhvostov/warmup-1.git
+    3  ls
+    4  cd warmup-1
+    5  ls
+    6  code .
+    7  code .
+    8  cd /e/Roman/rss/tasks/
+    9  ls
+   10  cd warmup-1
+   11  ls
+   12  code /
+   13  code .
+   14  cd /e/Roman/rss/tasks/warmup-1
+   15  ls
+   16  code .
+   17  cd /e/Roman/rss/tasks/
+   18  warmup-1
+   19  cd warmup-1
+   20  code .
+   21  code .
+   22  echo "# rsschool-2019Q1-html-css" >> README.md
+   23  cd /e/Roman/rss/tasks/
+   24  echo "# rsschool-2019Q1-html-css" >> README.md
+   25  ls
+   26  cd codewars
+   27  echo "# rsschool-2019Q1-html-css" >> README.md
+   28  git init
+   29  git add README.md
+   30  git commit -m "first commit"
+   31  git remote add origin https://github.com/rbarakhvostov/rsschool-2019Q1-html-css.git
+   32  git push -u origin master
+   33  ls
+   34  code .
+   35  cd /e/Roman/rss/tasks/html-and-css/
+   36  ls
+   37  code .
+   38  git add .
+   39  git commit -m "second commit"
+   40  git push origin master
+   41  ls
+   42  git clone https://github.com/rbarakhvostov/rsschool-2019Q1-html-css.git
+   43  ls
+   44  ls
+   45  ls
+   46  /e/Roman/rss/tasks/
+   47  ls
+   48  cd /e/Roman/rss/tasks/
+   49  ls
+   50  git clone https://github.com/rbarakhvostov/rsschool-2019Q1-html-css.git
+   51  cd /e/Roman/rss/tasks/
+   52  ls
+   53  git clone https://github.com/rbarakhvostov/love-triangle-1.git
+   54  ls
+   55  cd love-triangle-1
+   56  code .
+   57  cd /e/Roman/rss/tasks/
+   58  ls
+   59  git clone https://github.com/rbarakhvostov/money-exchange-1.git
+   60  cd money-exchange-1
+   61  ls
+   62  code .
+   63  cd /e/Roman/rss/old-tasks/
+   64  ls
+   65  cd money-exchange
+   66  ls
+   67  code js
+   68  code .
+   69  cd /e/Roman/rss/tasks/
+   70  ls
+   71  git clone https://github.com/rbarakhvostov/brackets.git
+   72  code .
+   73  cd brackets
+   74  code .
+   75  cd /e/Roman/rss/tasks
+   76  git clone https://github.com/rbarakhvostov/rsschool-2019Q1-cv.git
+   77  cd /e/
+   78  git clone https://github.com/rbarakhvostov/rsschool-2019Q1-cv.git
+   79  cd /e/Roma/rss/tasks/
+   80  cd /e/Roman/rss/tasks/
+   81  git clone https://github.com/rbarakhvostov/rsschool-2019Q1-cv.git
+   82  /e/Roman/rss
+   83  /E/Roman/rss
+   84  /E/Roman/rss/
+   85  cd /e/roman/rss
+   86  git clone https://github.com/rbarakhvostov/hexal.git
+   87  cd /e/roman/rss/tasks
+   88  git clone 
+   89  git clone https://github.com/rbarakhvostov/priority-queue.git
+   90  ls
+   91  cd priority-queue
+   92  code .
+   93  cd /e/roman/rss/tasks
+   94  git clone https://github.com/rbarakhvostov/sudoku.git
+   95  cd/sudoku
+   96  ls
+   97  cd sudoku
+   98  code .
+   99  cd/e/roman/rss/tasks
+  100  cd/E/Roman/rss/tasks
+  101   cd/e/roman/rss/tasks
+  102  cd e/roman/rss/tasks
+  103  cd E/Roman/rss/tasks
+  104  cd E
+  105  cd e/roman/rss/tasks/
+  106  cd e/
+  107  cd E/
+  108  cd /e/
+  109  cd /e/roman/rss/tasks/
+  110  git clone https://github.com/rbarakhvostov/js-assignments.git
+  111  cd js-assignments
+  112  code .
+  113  cd e/roman/rss/tasks
+  114  cd /e/roman/rss/tasks
+  115  git clone 
+  116  git clone https://github.com/rolling-scopes-school/rbarakhvostov-2019Q1.git
+  117  cd rbarakhvostov-2019Q1
+  118  git config
+  119  git config --list
+  120  cd /e/roman/rss/tasks
+  121  cd rbarakhvostov-2019Q1
+  122  git config user.name "Roman Barakhvostov"
+  123  git config user.email "rbarakhvostov@gmail.com"
+  124  cd /e/Roman
+  125  git clone https://github.com/rolling-scopes-school/rbarakhvostov-2019Q1.git
+  126  cd /1/
+  127  cd 1
+  128  cd C:\Users\Asus\Desktop
+  129  cd C/Users/Asus/Desktop
+  130  cd /C/Users/Asus/Desktop
+  131  cd 1
+  132  git clone https://github.com/rolling-scopes-school/rbarakhvostov-2019Q1.git
+  133  cd /e/Roman/rss/tasks
+  134  git clone https://github.com/rbarakhvostov/youtube-client.git
+  135  cd /e/Roman/rss/tasks
+  136  git clone https://github.com/rbarakhvostov/youtube-client.git
+  137  cd /e/Roman/rss/tasks
+  138  git clone https://github.com/rbarakhvostov/youtube-client.git
+  139  cd /e/Roman/rss/tasks
+  140  git clone https://github.com/rbarakhvostov/presentation.git
+  141  cd presentation
+  142  code .
+  143  cd /e/Roman/rss/tasks
+  144  git clone https://github.com/rbarakhvostov/1.git
+  145  cd /e/Roman/rss/tasks
+  146  git clone  git clone https://github.com/hakimel/reveal.js.git
+  147  git clone https://github.com/hakimel/reveal.js.git
+  148  cd reveal.js
+  149  code .
+  150  cd /e/Roman/rss/tasks
+  151  git clone https://github.com/rbarakhvostov/reveal.js.git
+  152  cd e/Roman/rss
+  153  cd /e/Roman/rss
+  154  cd gifjs
+  155  git clone https://github.com/rbarakhvostov/gif.js.git
+  156  cd /e/Roman/rss/ccapture.js
+  157  git clone https://github.com/rbarakhvostov/ccapture.js.git
+  158  cd /e/Roman/rss/gomelOblGaz
+  159  git clone https://gitlab.com/medinsky/gomeloblgaz.by.git
+  160  git clone https://gitlab.com/medinsky/gomeloblgaz.by.git
+  161  git clone https://gitlab.com/medinsky/gomeloblgaz.by.git
+  162  cd /e/Roman/rss/gomelOblGaz
+  163  git clone https://gitlab.com/medinsky/gomeloblgaz.by.git
+  164  git clone https://gitlab.com/medinsky/gomeloblgaz.by.git
+  165  cd /e/Roman/rss/gomelOblGaz
+  166  git clone 
+  167  git clone 
+  168  git clone https://gitlab.com/medinsky/gomeloblgaz.by.git
+  169  git config --system --unset credential.helper
+  170   
+  171  cd /e/Roman/rss/gomelOblGaz
+  172  git clone https://gitlab.com/medinsky/gomeloblgaz.by.git
+  173  cd e/Roman/rss/task
+  174  cd /e/Roman/rss/task
+  175  cd /e/Roman/rss/tasks
+  176  git clone https://github.com/vld-m/culture-portal.git
+  177  cd /e/Roman/rss/tasks
+  178  git clone https://github.com/vld-m/culture-portal.git
+  179  cd /e/Roman/rss/tasks
+  180  git clone https://github.com/vld-m/culture-portal.git
+  181  cd /e/Roman
+  182  cd tasks
+  183  cd rss/tasks
+  184  cd culture-portal
+  185  cd culture-portal
+  186  cd culture-portal-rbarakhvostov
+  187  cd ..
+  188  cd culture-portal-rbarakhvostov
+  189  git clone https://github.com/rbarakhvostov/culture-portal.git
+  190  cd /e/Roman/rss/tasks/
+  191  git clone https://github.com/rbarakhvostov/chat.git
+  192  /cd/e/Roman/rss/tasks
+  193  /cd/e/Roman/rss/tasks/
+  194  /cd/E/Roman/rss/tasks/
+  195  cd/E/Roman/rss/tasks/
+  196  cd e/Roman/rss/tasks
+  197  cd /e/Roman/rss/tasks
+  198  node -v
+  199  cd rss
+  200  cd e/Roman/rss
+  201  cd E/Roman/rss
+  202  cd /E/Roman/rss
+  203  git clone https://github.com/rbarakhvostov/talks-testing-live-coding.git
+  204  cd  /e/Roman/rss/lodash
+  205  npm init
+  206  cd /e/Roman/rss/lodash-practice
+  207  git init
+  208  Asus@Notebook-Bar MINGW64 ~
+  209  $ cd /e/Roman/rss/lodash-practice
+  210  Asus@Notebook-Bar MINGW64 /e/Roman/rss/lodash-practice
+  211  $ git init
+  212  Initialized empty Git repository in E:/Roman/rss/lodash-practice/.git/
+  213  Asus@Notebook-Bar MINGW64 /e/Roman/rss/lodash-practice (master)
+  214  $
+  215  git remote add origin https://github.com/rbarakhvostov/lodash-practice.git
+  216  git st
+  217  git st
+  218  git st
+  219  git add .
+  220  git ci -m 'initial commit'
+  221  git push origin master
+  222  cd /e/Roman/rss/lodash-practice
+  223  webpack 
+  224  npx webpack --mode production --watch
+  225  cd /e/Roman/rss/
+  226  git clone https://github.com/rbarakhvostov/palette.git
+  227  cd /e/Roman/rss/tasks/tasks
+  228  git clone https://github.com/rbarakhvostov/youtube-client.git
+  229  cd ..
+  230  git clone https://github.com/rbarakhvostov/youtube-client.git
+  231  cd /e/Roman/rss/tasks/tasks
+  232  git clone https://github.com/rbarakhvostov/piskel-clone.git
+  233   git config --global --list
+  234   git config --list
+  235  git config --global --list
+  236  git config --global user.name "Vasili Pupkin"
+  237  git config --global user.name "Raman Barakhvostau"
+  238   git config --global user.email "RBarakhvostau@gomel.iba.by"
+  239  git config --global core.autocrlf "true"
+  240  git config --global --list
+  241  git cd /e/Roman/rss/
+  242  cd /e/Roman/rss/
+  243  cd IBA_GIT
+  244  git clone ssh://rbarakhvostau@gml-jbpm.gomel.iba.by:29418/rbarakhvostau-git && scp -p -P 29418 rbarakhvostau@gml-jbpm.gomel.iba.by:hooks/commit-msg rbarakhvostau-git/.git/hooks/
+  245  git clone ssh://rbarakhvostau@gml-jbpm.gomel.iba.by:29418/rbarakhvostau-git && scp -p -P 29418 rbarakhvostau@gml-jbpm.gomel.iba.by:hooks/commit-msg rbarakhvostau-git/.git/hooks/
+  246  git clone ssh://rbarakhvostau@gml-jbpm.gomel.iba.by:29418/rbarakhvostau-git && scp -p -P 29418 rbarakhvostau@gml-jbpm.gomel.iba.by:hooks/commit-msg rbarakhvostau-git/.git/hooks/
+  247  pwd
+  248  pwd
+  249  cd /e/Roman/rss/
+  250  cd IBA_GIT
+  251  git clone ssh://rbarakhvostau@gml-jbpm.gomel.iba.by:29418/rbarakhvostau-git && scp -p -P 29418 rbarakhvostau@gml-jbpm.gomel.iba.by:hooks/commit-msg rbarakhvostau-git/.git/hooks/
+  252  pwd
+  253  ls
+  254  cd .ssh
+  255  ls
+  256  cd /e/Roman/rss/
+  257  cd IBA_GIT
+  258  git clone ssh://rbarakhvostau@gml-jbpm.gomel.iba.by:29418/rbarakhvostau-git && scp -p -P 29418 rbarakhvostau@gml-jbpm.gomel.iba.by:hooks/commit-msg rbarakhvostau-git/.git/hooks/
+  259  git clone ssh://rbarakhvostau@gml-jbpm.gomel.iba.by:29418/rbarakhvostau-git && scp -p -P 29418 rbarakhvostau@gml-jbpm.gomel.iba.by:hooks/commit-msg rbarakhvostau-git/.git/hooks/
+  260  cd ..
+  261  git clone ssh://rbarakhvostau@gml-jbpm.gomel.iba.by:29418/rbarakhvostau-git && scp -p -P 29418 rbarakhvostau@gml-jbpm.gomel.iba.by:hooks/commit-msg rbarakhvostau-git/.git/hooks/
+  262  cd IBA_GIT
+  263  git clone ssh://rbarakhvostau@gml-jbpm.gomel.iba.by:29418/rbarakhvostau-git && scp -p -P 29418 rbarakhvostau@gml-jbpm.gomel.iba.by:hooks/commit-msg rbarakhvostau-git/.git/hooks/
+  264  git config --globals --list
+  265  git config --global --list
+  266  cd /e/Roman
+  267  cd IBA_GIT
+  268  cd rss
+  269  cd IBA_GIT
+  270  git congig --global --list
+  271  git config --global --list
+  272  git clone https://github.com/RBarakhvostau/git-udemy.git
+  273  ls
+  274  cd git-udemy
+  275  git st
+  276  echo "Test Git Quick Start demo" >> start.txt
+  277  cat start.txt
+  278  git add start.txt
+  279  git st
+  280  git commit -m "Adding start text file"
+  281  git st
+  282  git push origin master
+  283  git config --global --list
+  284  git push origin master
+  285  git push origin master
+  286  git push origin master
+  287  p4merge
+  288  p4merge
+  289  git config --global merge.tool p4merge
+  290  git config --global mergetool.p4merge.path "C:/Program Files/Perforce/p4merge.exe"
+  291  git config --global mergetool.prompt false
+  292  git config --global diff.tool p4merg
+  293  git config --global diff.tool p4merge
+  294  git config --global difftool.p4merge.path "C:/Program Files/Perforce/p4merge.exe"
+  295  git config --global difftool.prompt false
+  296  git congig --global --list
+  297  git config --global --list
+  298  git config --global --e
+  299  git config --global -e
+  300  git config --global -e
+  301  git config --list
+  302  git config --global --list
+  303  pwd
+  304  cd /e/Roman/rss
+  305  pwd
+  306  cd IBA_GOMEL
+  307  pwd
+  308  cd IBA_GIT
+  309  pwd
+  310  git init fresh-project
+  311  ls
+  312  cd fresh-project
+  313  ls
+  314  ls -al
+  315  git st
+  316  cd .git
+  317  ls
+  318  cd ..
+  319  pwd
+  320  git st
+  321  mate hipster.txt
+  322  touch hipster.txt
+  323  git st
+  324  git add hipster.txt
+  325  git st
+  326  git commit
+  327  git commit -m "Adding new file with hipster ipsum"
+  328  git st
+  329  cd ..
+  330  ls
+  331  rm -rf fresh-project/
+  332  rm -rf fresh-project/
+  333  ls
+  334  ls
+  335  ~/
+  336  unzip ~/Downloads/initializr-verekia-4.0.zip
+  337  ls
+  338  mv initializr web-project
+  339  ls
+  340  cd web-project
+  341  ls
+  342  git init
+  343  ls -al
+  344  ls
+  345  ls -al
+  346  git st
+  347  git add .
+  348  git st
+  349  git ci -m "My first commit, inline"
+  350  git st
+  351  ls -al
+  352  rm -rf .git
+  353  ls
+  354  ls -al
+  355  cd ..
+  356  ls
+  357  rm -rf web-project
+  358  ls
+  359  pwd
+  360  git clone https://github.com/RBarakhvostau/starter-web.git
+  361  ls
+  362  cd starter-web
+  363  ls -al
+  364  cd ./git
+  365  cd .git
+  366  ls
+  367  cd ..
+  368  clear
+  369  git st
+  370  зцв
+  371  pwd
+  372  ls
+  373  git st
+  374  touch hipster.txt
+  375  git checkout master
+  376  git checkout -b Section7
+  377  touch Section7/stashIt.md
+  378  mkdir Section7
+  379  touch Section7/stashIt.md
+  380  git status
+  381  git status
+  382  git stash save "Stashed!"
+  383  git stash save -u "Stashed!"
+  384  git stash list
+  385  git status
+  386  touch Section7/stashIt2.md
+  387  mkdir Section7
+  388  touch Section7/stashIt2.md
+  389  touch Section7/stashIt3.md
+  390  git status
+  391  git stash
+  392  git stash -u
+  393  git stash list
+  394  git stash show
+  395  git stash show
+  396  git stash show stash@{1}
+  397  git stash show -p
+  398  git stash show stash@{1}
+  399  git stash show stash@{1}
+  400  git stash show stash@{1}
+  401  git stash show stash@{1}
+  402  git status
+  403  git checkout stash@{0} -- Section7/stashIt2.md
+  404  git checkout stash@{0} -- stashIt2.md
+  405  git show stash@{0}:Section7/stashIt2.md  >  Section7/stashIt2.md
+  406  git show stash@{0}:Section7/stashIt2.md  > stashIt2.md
+  407  git stash apply
+  408  git stash list
+  409  git show stash@{0}:Section7/stashIt2.md  > stashIt2.md
+  410  git show stash@{0}:stashIt2.md  > stashIt2.md
+  411  git show stash@{0}:stashIt2.md  > Section7/stashIt2.md
+  412  git checkout stash@{0} -- stashIt2.md
+  413  git checkout stash@{0} -- Section7/stashIt2.md
+  414  git stash save -p -u
+  415  git diff
+  416  git stash list
+  417  git stash show
+  418  git stash show -u
+  419  git stash apply stash@{0}
+  420  git add Section7/stashIt2.md
+  421  git commit -m 'stashIt2.md'
+  422  git stash list
+  423  git stash drop stash@{0}
+  424  git stash list
+  425  git stash branch featureStash
+  426  git stash list
+  427  git st
+  428  rm Section7/stashIt3.md
+  429  git add .
+  430  git commit -m 'stashIt.md'
+  431  git stash list
+  432  git checkout Section7
+  433  git stash list
+  434  git stash list
+  435  git checkout featureStash
+  436  git stash list
+  437  git checkout Section7
+  438  git merge featureStash 
+  439  history >> history.txt 
